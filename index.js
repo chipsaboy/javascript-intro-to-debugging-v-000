@@ -3,5 +3,5 @@ function sayHey() {
 }
 
 function sayHeyFriend(name) {
-  debugger
+  debugger;
 }
